@@ -1,0 +1,23 @@
+{
+  "name": "fadeoutduo",
+  "version": "1.0.0",
+  "description": "Fadeout webpage",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algil/fadeoutduo.git"
+  },
+  "author": "Antonio Gil <antonioluisgil@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/algil/fadeoutduo/issues"
+  },
+  "homepage": "https://github.com/algil/fadeoutduo#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
+}
